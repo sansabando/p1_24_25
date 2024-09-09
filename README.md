@@ -4,10 +4,12 @@ Practica 1 24_25 programación web movil
 
 Entrar en pánico está permitido, pero también vuestro potencial es necesario
 
+#Este cambio deberia de salir
+
 Esta es la práctica 1.1: 
 
 #Realizar en el siguiente HTML 5 declaraciones de estilo CSS para realizar
-la página tal y como se muestra en la imagen utilizando display GRID.
+la página tal y como se muestra en la imagen utilizando display GRID. n
 
 <!doctype html>
 <html>
